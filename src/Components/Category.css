@@ -1,0 +1,62 @@
+.imgMain img {
+    height: auto;
+    width: 100%;
+    padding: 10px;
+}
+
+.flexcolumn {
+    display: flex;
+    flex-direction: row;
+}
+
+.title-categories {
+    padding: 20px;
+    font-weight: bold;
+    font-size: 30px !important;
+}
+
+.subsequenceColour, .card-title a{
+    color: black;
+    text-decoration: none;
+}
+
+.subsequence {
+    padding-top: 10px;
+}
+
+.imgSeason {
+    padding: 20px;
+    width: 100%;
+    height: auto;
+}
+
+.seasonClass {
+    padding: 20px;
+}
+
+.image-season {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+
+.priceAndButtonBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.travelPrice {
+    color: red;
+    font-weight: bold;
+}
+
+.title-centered {
+    padding-left: 320px;
+
+}
+
+.article-text {
+    font-weight: 600;
+}

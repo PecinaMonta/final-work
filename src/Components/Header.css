@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #00000077 !important;
+}
+
+.nav-link {
+  font-size: larger;
+  font-family: "Bebas Neue", cursive;
+  font-size: larger;
+  color: #000000!important;
+}
+body {
+    background-color: #acacac;  
+    height: 100vh;
+}
