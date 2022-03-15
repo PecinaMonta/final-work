@@ -7,19 +7,19 @@ function Categories() {
     const category1 = {
         image: '/Img/club.jpg',
         title: 'Wildcats moto club',
-        description: 'The nice warmth of the summer months allows just about any vacation activities without weather-based interruptions. You can plan just about anything without fear of extreme cold or snow getting in the way. Easier Packing – Partly thanks to the weather, the summer allows for simpler packing. Luckily there is a range of incredible destinations that are just begging to be explored, with cities, beaches, islands, and even safari locations having hot weather throughout the month of January. Read on to find out my top picks for warm places to go on holiday in January so you can start your New Year off with a bang!',
+        description: 'Motorcycling culture is something that riders enjoy no matter how different they are in terms of religion, gender, language, race, or skin color. Our Club Wildcats accept all. With us, you’re not a price tag. The moment you walk through our doors, you become part of a family. To become a member of Wildcats Moto Club you need to register. Established in 1987, Wildcats is enjoyed by many riders of various skill levels from beginners to Pros, both young and old. ',
     }
 
     const category2 = {
         image: '/Img/Shop.jpg',
         title: 'Shop',
-        description: 'Winter vacation is a time to relax and celebrate the time in the company of your family and friends. ... Winter vacations usually consist of 15 days and include 2 important festivals which are Christmas and New year. So, the holiday season is full of festival flavors. Winter wonderland vacations don’t always have to be about skiing. If you’d like to enjoy a wintertime adventure but you aren’t into skiing, or if you’re part of a family that includes skiers and non-skiers alike, you’ll find a number of resorts across the globe that cater to all types of travelers. At these resorts, there are a host of activities that are sure to please just about everyone.',
+        description: 'Wildcats Shop is areas premier motorcycle and powersports dealership. Located in Kengarags, Riga, Wildcats Shop Mall is just minutes from Rigas city center. Wildcats Shop has thousands of new and used motorcycles (scooters and dirt bikes), powersports vehicles (all-terrain vehicles, personal watercraft, and snowmobiles), and power equipment (generators, snow blowers, and lawn equipment) in-stock from some of the best manufacturers in the industry.',
     }
 
     const category3 = {
         image: '/Img/repair.jpg',
         title: 'Repair',
-        description: 'Hiking/walking tourism is considered to be special interest tourism and a challenge for local development. ... Hiking trails allow rest, enjoyment, and contact with nature. Furthermore, trails allow for proximity to the local population and its heritage, thus interconnecting to cultural tourism.Hiking sometimes involves bushwhacking and is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by New Zealanders are tramping (particularly for overnight and longer trips), walking or bushwalking.',
+        description: 'At Wildcats Repair, we understand the importance of keeping your motorcycles in great condition. This is why we offer our two-wheeler tune-up services. With our help, you can ensure your rides optimal performance and stay road-worthy longer.Our services include motorcycle repair, motorcycle service, ATV repair, watercraft repair, dirt bike repair. Our team consists of specialists. Just come to us and we will help you.',
     }
 
     return (
